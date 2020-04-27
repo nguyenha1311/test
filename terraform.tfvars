@@ -1,0 +1,7 @@
+rg_name               = "ha-test-rg"
+rg_location           = "westus2"
+resource_prefix       = "ha-test"
+vnet_address_space    = "10.0.0.0/22"
+subnet_address_prefix = "10.0.1.0/24"
+server_name           = "test_server"
+environment           = "development"
